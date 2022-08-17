@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Vincent-PERON/Vincent-PERON/img/emoji_Vincent_PERON.png" alt="Vincent PERON" height="200" style="margin-right: 20px" />
+  <img src="https://github.com/Vincent-PERON/Vincent-PERON/blob/main/img/emoji_Vincent_PERON.png" alt="Vincent PERON" height="200" style="margin-right: 20px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Vincent-PERON&show_icons=true" alt="Github Stats" />
 </p>
 <p>
@@ -12,7 +12,7 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="saas" src="	https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Saas" src="	https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
