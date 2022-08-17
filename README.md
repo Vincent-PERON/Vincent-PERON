@@ -65,5 +65,5 @@
 
 <p>&nbsp;</p>
 </p>
-<h3>Acknowledgments</h3>
+<h3>🙏 Acknowledgments</h3>
 <p>This profile readme is greatly inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>'s one !</p>
