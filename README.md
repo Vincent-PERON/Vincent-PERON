@@ -23,7 +23,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
-
+<p>&nbsp;</p>
 
 <h3>🚀 Being learned</h3>
 
@@ -34,6 +34,7 @@
      <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
      <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
 </p>
+<p>&nbsp;</p>
 
 <h3>📦 Open source projects</h3>
 <table>
@@ -56,12 +57,13 @@
     </tr>
   </tbody>
 </table>
+<p>&nbsp;</p>
   <h3>🔎 Where to find me</h3>
 <p>
 <a href="https://github.com/Vincent-PERON" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
 <a href="https://www.linkedin.com/in/vincent-prn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
+<p>&nbsp;</p>
 </p>
 <h3>Acknowledgments</h3>
 <p>This profile readme is greatly inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>'s one !</p>
