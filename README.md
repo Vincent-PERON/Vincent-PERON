@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Vincent-PERON/Vincent-PERON/blob/main/img/emoji_Vincent_PERON.png" alt="Vincent PERON" height="200" style="margin-right: 20px" />
+  <img src="https://github.com/Vincent-PERON/Vincent-PERON/blob/main/img/emoji_Vincent_PERON.png" alt="Vincent PERON" height="200" style="margin-right: 40px" />
   <img src="https://github-readme-stats.vercel.app/api?username=Vincent-PERON&show_icons=true" alt="Github Stats" />
 </p>
 <p>
