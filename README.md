@@ -36,7 +36,7 @@
 </p>
 <p>&nbsp;</p>
 
-<h3>📦 Open source projects</h3>
+<h3>📦 My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
