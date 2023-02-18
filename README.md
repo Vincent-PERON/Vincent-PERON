@@ -52,7 +52,29 @@
       <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vincent-PERON/Ti-Weather"></td>
       <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Vincent-PERON/Ti-Weather?style=flat-square"></td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/Vincent-PERON/LinkODev-Project-Oclock-Back"><b>LinkO'DEv: Content generator for Linkedin - Back-end</b></a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vincent-PERON/LinkODev-Project-Oclock-Back?style=flat-square"></td>
+      <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/Vincent-PERON/LinkODev-Project-Oclock-Back?style=flat-square"></td>
+      <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vincent-PERON/LinkODev-Project-Oclock-Back"></td>
+      <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Vincent-PERON/LinkODev-Project-Oclock-Back?style=flat-square"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vincent-PERON/LinkODev-Project-Oclock-Back"><b>LinkO'DEv: Content generator for Linkedin - Front-end</b></a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vincent-PERON/LinkODev-Project-Oclock-Front?style=flat-square"></td>
+      <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/Vincent-PERON/LinkODev-Project-Oclock-Front?style=flat-square"></td>
+      <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vincent-PERON/LinkODev-Project-Oclock-Front"></td>
+      <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Vincent-PERON/LinkODev-Project-Oclock-Front?style=flat-square"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Vincent-PERON/recipe-App"><b>Cooking Master: recipes blog with the possibility of adding</b></a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Vincent-PERON/recipe-App?style=flat-square"></td>
+      <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/Vincent-PERON/recipe-App?style=flat-square"></td>
+      <td><img alt="GitHub issues" src="https://img.shields.io/github/issues/Vincent-PERON/recipe-App"></td>
+      <td><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Vincent-PERON/recipe-App?style=flat-square"></td>
+    </tr>
   </tbody>
+  
 </table>
 <p>&nbsp;</p>
   <h3>🔎 Where to find me</h3>
